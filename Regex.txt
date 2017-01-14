@@ -1,0 +1,8 @@
+/\s*<td><img src=".*"\s*class="i_p0".*\/><a href="\/(.*)">(.*)<\/a><\/td>\s*<td\sclass="td_smaller.*">.*<\/td>\s*<td class="td_smaller.*">(.*)(?:<\/a>)?<\/td>/g
+
+/\s*<td><img src=".*"\s*class="i_p0".*\/><a href="\/(.*)">(.*)<\/a><\/td>\s*<td\sclass="td_smaller.*">.*<\/td>\s*<td class="td_smaller.*">(.*)(?:<\/a>)?<\/td>/
+
+
+/<div id="error" style=".*">You are scraping our site way too fast! We've blocked you from the archive page until you slow down.*<\/div>/g
+
+/<div id="error" style=".*">You are scraping our site way too fast! We've blocked you from the archive page until you slow down.*<\/div>/
